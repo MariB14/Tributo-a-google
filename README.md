@@ -22,7 +22,7 @@ Las tecnologías que utlicé, son:
 Aprender  a utilicar las etiquetas estándar de HTML5 y CSS3
 ### Link a demo
 en el siguiente link puedes ver mi proyecto terminado
-[Clon de Google] (#)
+[Clon de Google] (https://tributo-a-google.vercel.app)
 
 
 
